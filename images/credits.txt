@@ -1,0 +1,26 @@
+REPRESENTATIVE STOCK PHOTOGRAPHY
+These photographs are not photographs of Sri Balaji Motors or its employees.
+Replace them with owner-approved workshop photography when available.
+
+Hero: Artem Podrez / Pexels
+https://www.pexels.com/photo/a-mechanic-working-on-a-car-engine-8986041/
+https://images.pexels.com/photos/8986041/pexels-photo-8986041.jpeg
+
+Workshop: Jose Ricardo Barraza Morachis / Pexels
+https://www.pexels.com/photo/car-mechanic-holding-a-tool-for-repair-4116224/
+https://images.pexels.com/photos/4116224/pexels-photo-4116224.jpeg
+
+Pexels license: https://www.pexels.com/license/
+Images are served at responsive sizes from the Pexels image CDN.
+Fonts: Barlow and Barlow Condensed, Google Fonts (SIL Open Font License).
+
+CONTENT TO CONFIRM
+Update js/config.js with the actual phone, WhatsApp, email, street address,
+opening hours and verified Google Maps links. Empty entries remain explicitly
+marked as pending and cannot contact a made-up number or confirm a booking.
+Replace the clearly labelled sample reviews with genuine, permitted reviews.
+Confirm services and vehicle coverage with the owner before public launch.
+
+DESIGN RESEARCH (inspiration, no source code or brand assets copied)
+https://ap.boschcarservice.com/in/en/ — service categories and workshop-first navigation
+https://petromin.in/ — mechanic imagery, compact service promises and practical contact information
